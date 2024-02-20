@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+My name is Danish Alif Arsan
+
+I am an Information Technology student at University of Brawijaya
+<br>
+<br>
+
+
+📫 How to reach me:
+[linkedin](www.linkedin.com/in/danish-alif-arsan)
+[itch.io](https://danishaa.itch.io)
+
 <!--
 **DanishAlifArsan/DanishAlifArsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
