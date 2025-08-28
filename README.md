@@ -2,12 +2,13 @@
 
 My name is Danish Alif Arsan
 
-I am an Information Technology student at University of Brawijaya
+I am an Information Technology student at University of Brawijaya.
 <br><br>
 
 ### 📫 How to reach me:
-- [linkedin](www.linkedin.com/in/danish-alif-arsan)
-- [itch.io](https://danishaa.itch.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-alif-arsan/)
+<br>
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://danishaa.itch.io)
 <br><br>
 
 ### Github Statistic
